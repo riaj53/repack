@@ -1,6 +1,6 @@
 
 ## RePack: The Ultimate Flutter Rename & Package Changer Tool
-![StoreBox Logo](https://raw.githubuserconteefnt.com/riaj53/store_box/main/store_box.png)
+![RePack Logo](https://raw.githubusercontent.com/riaj53/repack/main/repack.png)
 
 [![pub version](https://img.shields.io/pub/v/stefore_box?color=blue)](https://pub.dev/packages/store_box)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
