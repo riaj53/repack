@@ -1,0 +1,29 @@
+name: repack
+description: A command-line tool to rename a Flutter app and change its package ID.
+version: 1.0.0
+homepage: https://github.com/riaj53/repack
+repository: https://github.com/riaj53/repack
+issue_tracker: https://github.com/riaj53/repack/issues
+
+# New section for SEO!
+topics:
+  - flutter
+  - rename
+  - package-name
+  - package-id-changer
+  - app-name-changer
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  args: ^2.5.0
+  path: ^1.9.0
+
+dev_dependencies:
+  test: ^1.25.2
+  lints: ^4.0.0
+
+# This makes your tool runnable from the command line
+executables:
+  repack:
